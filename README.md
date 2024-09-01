@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
 
